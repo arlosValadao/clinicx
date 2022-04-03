@@ -1,5 +1,5 @@
-Um sistema de gerenciamento de uma clínica de Multiespecialidades.
-Permite o:
+Um sistema de gerenciamento de uma clínica de Multiespecialidades com interface Gráfica.
+Permite:
 	1. Agendamento de consultas
 	2. Gerenciamento de Médicos e suas Especialidades
 	3. Gerenciamento de Pacientes e suas Informãções
